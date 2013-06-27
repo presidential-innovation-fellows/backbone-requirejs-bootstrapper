@@ -1,0 +1,12 @@
+{
+  "name": "App Name",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "latest",
+    "jquery": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest",
+    "backbone.localStorage": "latest",
+    "bootstrap": "latest"
+  }
+}
